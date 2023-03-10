@@ -13,9 +13,7 @@ const Form = (props) => {
         display: 'flex',
         justifyContent: 'center',
         paddingTop: '20px',
-
     }
-
 
     return (
         <div>
